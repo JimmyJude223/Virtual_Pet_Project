@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075120014254",
+    "project_id": "virtualpetapplication",
+    "storage_bucket": "virtualpetapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075120014254:android:82401be6aecdd7b006be3f",
+        "android_client_info": {
+          "package_name": "com.example.mobileapplicationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075120014254-eel2vnfs76po8i2hkdoanjkcs0vmb7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVlkoa3t4m1laX72lAE37Dc96WONhthdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075120014254-eel2vnfs76po8i2hkdoanjkcs0vmb7l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
